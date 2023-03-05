@@ -21,8 +21,9 @@
 <!-- Title -->
 # Welcome to Yashraj Jadhav's profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-## <👨‍💻 About Me>
-Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year pursuing bachelors in computer Science. I am a rookie open-source enthusiast looking to contribute value to projects around the world Experienced learning by doing first-hand.
+## <👨‍💻 About Me>   <img align="center" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">  
+
+Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year pursuing bachelors in computer Science. I am a rookie open-source enthusiast looking to contribute value to projects around the world Experienced learning by doing first-hand.  
 
 <!-- Here are some ideas to get you started: -->
 
