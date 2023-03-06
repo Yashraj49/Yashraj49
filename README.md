@@ -60,7 +60,7 @@ Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year 
 
 <br>
 
-## < 📈 Stats >
+## < 📉 Stats >
 
 <h1 align = "center">
  
