@@ -2,9 +2,7 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
-
-
-
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Yashraj49/Yashraj49/blob/main/github-contribution-grid-snake.svg)
 
 
 <h2 align="center">
@@ -14,14 +12,12 @@
 </h2>
 
 
-
-
-
-
 <!-- Title -->
 # Welcome to Yashraj Jadhav's profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-## <👨‍💻 About Me>   <img align="center" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">  
+## <👨‍💻 About Me>   <img align="center" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">   
+
+
 
 Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year pursuing bachelors in computer Science. I am a rookie open-source enthusiast looking to contribute value to projects around the world Experienced learning by doing first-hand.  
 
@@ -63,6 +59,8 @@ Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year 
 ## < 📉 Stats >
 
 <h1 align = "center">
+ 
+ 
  
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Yashraj49&show_icons=true&theme=dracula&count_private=true" width="400">
