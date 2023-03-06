@@ -2,9 +2,6 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Yashraj49/Yashraj49/blob/main/github-contribution-grid-snake.svg)
-
-
 <h2 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!&center=false&size=20">
