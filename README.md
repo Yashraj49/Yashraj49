@@ -60,7 +60,7 @@ Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year 
  
  
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Yashraj49&show_icons=true&theme=dracula&count_private=true" width="400">
+[![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj49)](https://github.com/Yashraj49/github-readme-stats)
 
 </h1>
 
