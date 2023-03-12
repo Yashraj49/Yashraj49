@@ -21,8 +21,8 @@ Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year 
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently learning and Building projects on iOS -->
-- 🌱 I'm focusing on learning iOS development with SwiftUI and developing an interest in DevOps
-- 👯 I'm looking forward to collaborating on native iOS development opportunities or any open-source projects that could use some help!
+- 🎯 I'm focusing on learning iOS development with SwiftUI and developing an interest in DevOps
+- 🤝🏻 I'm looking forward to collaborating on native iOS development opportunities or any open-source projects that could use some help!
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
