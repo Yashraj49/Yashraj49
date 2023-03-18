@@ -57,14 +57,13 @@ Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year 
 
 <h1 align = "center">
  
- 
- 
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
-[![Yashraj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yashraj49)](https://github.com/Yashraj49/github-readme-stats)
+[![Yashraj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yashraj49&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/Yashraj49/github-readme-stats)
 
+	
 </h1>
 
 <p align="center">
 	
-  [![](https://github-readme-activity-graph.cyclic.app/graph?username=Yashraj49&theme=react-dark)]
+  ![](https://github-readme-activity-graph.cyclic.app/graph?username=Yashraj49&theme=react-dark)
 </p>
