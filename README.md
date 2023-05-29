@@ -64,5 +64,6 @@ Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year 
 </h1>
 
 <p align="center">
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Yashraj49&theme=react-dark)
+
+	![](https://github-readme-activity-graph.cyclic.app/graph?username=Yashraj49&theme=react-dark)
 </p>
