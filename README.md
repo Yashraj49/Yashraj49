@@ -16,7 +16,7 @@
 
 
 
-Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my Sophomore year pursuing bachelors in computer Science. I am a rookie open-source enthusiast looking to contribute value to projects around the world Experienced learning by doing first-hand.  
+Welcome to my GitHub! I am Yashraj Jadhav.  I am currently in my pre-final year pursuing bachelors in computer Science. I am a rookie open-source enthusiast looking to contribute value to projects around the world Experienced learning by doing first-hand.  
 
 <!-- Here are some ideas to get you started: -->
 
